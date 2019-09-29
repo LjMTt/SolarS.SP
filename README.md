@@ -1,0 +1,2 @@
+# SolarS.SP
+School project.
